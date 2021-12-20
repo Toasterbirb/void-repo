@@ -8,5 +8,6 @@ repository=https://raw.githubusercontent.com/Toasterbirb/void-repo/master
 
 ## Packages
 List of current included packages:
-- dde
-- Typon
+- [dde](https://github.com/Toasterbirb/dde)
+- [Typon](https://github.com/ihsuy/Typon)
+- [ytfzf](https://github.com/pystardust/ytfzf)
