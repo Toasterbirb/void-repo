@@ -12,3 +12,6 @@ List of current included packages:
 - [Typon](https://github.com/ihsuy/Typon)
 - [ytfzf](https://github.com/pystardust/ytfzf)
 - [xnotify](https://github.com/phillbush/xnotify)
+
+### Note
+If you are the owner of a package listed above and want it taken out, please let me know and I will snap it ouf of the existance from this repository :)
