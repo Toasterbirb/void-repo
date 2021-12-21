@@ -11,3 +11,4 @@ List of current included packages:
 - [dde](https://github.com/Toasterbirb/dde)
 - [Typon](https://github.com/ihsuy/Typon)
 - [ytfzf](https://github.com/pystardust/ytfzf)
+- [xnotify](https://github.com/phillbush/xnotify)
