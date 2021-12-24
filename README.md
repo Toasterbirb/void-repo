@@ -10,6 +10,7 @@ repository=https://raw.githubusercontent.com/Toasterbirb/void-repo/master
 List of current included packages:
 - [dde](https://github.com/Toasterbirb/dde) 0.1.1
 - [deluge](https://ftp.osuosl.org/pub/deluge/) 2.0.5
+- [md4c](https://github.com/mity/md4c) 0.4.8
 - [mononoki-ttf](https://github.com/madmalik/mononoki/tree/master) 1.3
 - [Typon](https://github.com/ihsuy/Typon) 1.0
 - [ytfzf](https://github.com/pystardust/ytfzf) 1.2.0
