@@ -1,0 +1,104 @@
+@font-face {
+	font-family: mononoki;
+	src: url("./fonts/mononoki-Regular.ttf")
+}
+
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	margin-top: 1.5em;
+	color: #e5e9f0;
+}
+
+h3 {
+	color: #d8dee9;
+}
+
+hr {
+	border-radius: 1em;
+	border: 0.15em solid;
+}
+
+li {
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	margin-left: -1em;
+}
+
+body {
+	background-color: #2e3440;
+	color: white;
+	font-family: mononoki;
+	max-width: 55em;
+	margin: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	line-height: 1.4em;
+}
+
+
+a {
+	color: #88c0d0;
+}
+
+nav > * {
+	text-align: center;
+	font-variant: initial;
+	font-size: 1.2em;
+	margin: auto;
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+	margin: 2em;
+}
+
+img {
+	max-width: 100%;
+}
+
+details {
+	background-color: #343C4A;
+	padding: 0.5em;
+	margin: 0.5em;
+}
+
+/*details > summary {
+	background-color: #2e3440;
+}*/
+
+code {
+	background-color: #4c566a;
+	display: inline-block;
+	font-size: 0.9em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	padding-top: 0.5em;
+}
+
+.language-block {
+	margin-left: 1em;
+	margin-right: 1em;
+	padding: 0.5em;
+}
+
+.gallery {
+	width: 46%;
+	padding: 0.5em;
+}
+
+.gallery:hover {
+	transform: scale(1.1);
+}
+
+.raisedLetters {
+	background-color: #282E38;
+	border-radius: 0.8em;
+	display: inline-flex;
+	padding: 5px;
+}
+
+input:checked + div { display: none; }
