@@ -7,6 +7,8 @@ repository=https://raw.githubusercontent.com/Toasterbirb/void-repo/master
 ```
 
 ## Packages
+Up-To-Date list of packages can also be found [here](https://toasterbirb.github.io/void-repo/). It will be updated before the list below
+
 List of current included packages:
 - [dde](https://github.com/Toasterbirb/dde) 0.1.1
 - [deluge](https://ftp.osuosl.org/pub/deluge/) 2.0.5
